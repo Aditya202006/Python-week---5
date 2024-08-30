@@ -1,4 +1,4 @@
-// Write a program to reverse a list in python
+# Write a program to reverse a list in python
 
 l=[]
 s=int(input('Enter no.of elements of list:'))
